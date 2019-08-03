@@ -1,1 +1,1 @@
-web: gunicorn deploy: game
+web: python game.py
